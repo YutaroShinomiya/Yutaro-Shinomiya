@@ -1,4 +1,5 @@
 # B3　SRQ発表 
+[先行研究調査](https://github.com/YutaroShinomiya/Yutaro-Shinomiya/blob/229e24561562cac11decf7d6f01c40a5d553a25a/GM%E8%AD%B0%E4%BA%8B%E9%8C%B2/%E5%85%88%E8%A1%8C%E7%A0%94%E7%A9%B6%E8%AA%BF%E6%9F%BB.md)
 ## GRQ
 ```
 「LINEなどの短文テキストコミュニケーションにおいてどのような自己開示が印象形成において適切で齟齬を生まないか」
